@@ -1,9 +1,11 @@
-# Anonymized Code Repository for "Augmenting and Tuning Knowledge Graph Embeddings"
+# Code for Paper "Augmenting and Tuning Knowledge Graph Embeddings"
 
-This is an anonymized version of the code for the paper "Augmenting and Tuning
-Knowledge Graph Embeddings", currently under review for UAI 2019. A public
-version of this repository will be made available on GitHub when the paper is
-out of peer review. Until then, please do not distribute this code.
+This repository contains the code for the paper
+
+- R. Bamler, F. Salehi, and S. Mandt,<br/>
+  [*Augmenting and Tuning Knowledge Graph Embeddings*](paper.pdf),<br/>
+  UAI 2019
+
 
 
 ## Quickstart
